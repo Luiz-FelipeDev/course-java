@@ -109,3 +109,30 @@ while(contador < 10){
 
 ```  
 
+## Casting em Java
+
+```java
+
+  double meuDouble = 10.0;
+  int meuInt = (int) meuDouble;
+  
+
+// Casting mais complicados
+
+String minhaString = "10";
+meuInteiro = Integer.parseInt(minhaString);
+
+// E o contrário:
+
+int meuNumero = 100;
+String numeroConvert = String.valeuOf(meuNumero);
+
+```
+
+## Orientação a Objetos
+
+```java
+
+  
+
+```
